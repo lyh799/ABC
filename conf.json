@@ -1,0 +1,7 @@
+{
+    "db_server": "47.102.108.139",
+    "db_port": 3306,
+    "db_user": "abc",
+    "db_password": "abc123",
+    "db_name": "djdb"
+}
